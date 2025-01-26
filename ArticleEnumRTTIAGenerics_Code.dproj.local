@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/25 13:49:47.000.726,=C:\Users\arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/25 13:50:39.000.172,C:\Users\arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Dev\Delphi\Article on Enum, RTTI Attributes and Generics\Example.Forms.Main.pas</Transaction>
+    <Transaction>2025/01/25 13:50:39.000.172,C:\Users\arthur\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Dev\Delphi\Article on Enum, RTTI Attributes and Generics\Example.Forms.Main.dfm</Transaction>
+    <Transaction>2025/01/25 13:50:56.000.857,C:\Users\arthur\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Dev\Delphi\Article on Enum, RTTI Attributes and Generics\ArticleEnumRTTIAGenerics_Code.dproj</Transaction>
+    <Transaction>2025/01/25 13:51:29.000.427,=C:\Dev\Delphi\Article on Enum, RTTI Attributes and Generics\Unit2.pas</Transaction>
+    <Transaction>2025/01/25 13:51:41.000.239,=C:\Dev\Delphi\Article on Enum, RTTI Attributes and Generics\Unit1.pas</Transaction>
+    <Transaction>2025/01/25 13:51:54.000.173,C:\Dev\Delphi\Article on Enum, RTTI Attributes and Generics\Unit1.pas=C:\Dev\Delphi\Article on Enum, RTTI Attributes and Generics\Example.Code.pas</Transaction>
+  </Transactions>
+</BorlandProject>
